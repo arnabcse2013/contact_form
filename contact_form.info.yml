@@ -1,0 +1,5 @@
+name: Contact Form
+description: A Contact form to enter user details.
+core: 8.x
+package: Custom
+type: module
