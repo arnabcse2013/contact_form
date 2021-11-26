@@ -1,5 +1,5 @@
 # contact_form
-This is simple contact Form with table structure included for D8 projects.
+This is simple contact Form with custom table structure included for D8 projects.
 
 Steps:
 
